@@ -1,4 +1,4 @@
-# midas-softwarex-2016
+# midas-softwarex
 
 Contents
 ========
